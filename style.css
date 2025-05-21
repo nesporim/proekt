@@ -7,14 +7,15 @@ body{
    font-size: 40px;
    border: 3px dotted orange; 
    border-radius: 5px;
+   background-color: white;
 }
 b{
-    color: orange;
+    color: black;
     text-decoration: solid;
 }
 h2{
     font-size:40px;
-    color:orange;
+    color:black;
 }
 h1{
     text-align:center;
@@ -27,7 +28,19 @@ h1{
 footer{
     background-color: orange;
     padding:10px;
-    color:gray;
+    color:black;
     font-size:30px;
     text-decoration:none;
+}
+.footer{
+    background-color: white;
+    color: black;
+}
+.footer1{
+    background-color: white;
+    color: black;
+}
+.china{
+    height:170px;
+    width:300px;
 }
